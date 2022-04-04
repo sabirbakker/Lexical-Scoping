@@ -20,7 +20,7 @@ makeCacheMatrix <- function(x = matrix ()) {
 }
 
 ##
-## same as here "meam" changed to "solve" and "m" to "s"
+## same as here "mean" changed to "solve" and "m" to "s"
 ## return changed to "retval"
 
 cacheSolve <- function(x, ...) {
