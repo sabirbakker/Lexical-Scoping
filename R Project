@@ -36,3 +36,10 @@ s <- solve(data, ...)
 x$setsolve (s)
 s
 }
+
+
+## m <- makeCachematrix(matrix(1:4,2,2)
+## m$get()
+## m$getsolve()
+## cacheSolve(m)
+#### cacheSolve(m)
